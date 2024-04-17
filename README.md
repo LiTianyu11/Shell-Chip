@@ -4,9 +4,9 @@
 
 ⭐Here is a collection of small scripts implemented by Shell
 
-## 关于时间的一切 - Date
 
 
+[DATA关于时间的一切](DATE/date.sh)
 
 
 
